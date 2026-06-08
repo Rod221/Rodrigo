@@ -1,0 +1,6 @@
+{
+  "name": "Controle e Relatório de Clientes",
+  "description": "Sistema para gerenciamento de clientes, controle de mensagens enviadas e respondidas, importação de CSV e exportação de relatórios em PDF com gráficos interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
